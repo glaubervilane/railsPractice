@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is just a simple ruby application to practice set up and setting a rails application.
 
-Things you may want to cover:
+Set up versions:
 
-* Ruby version
+* Ruby version 3.1.1
 
-* System dependencies
+* Raqils version 7.0.7
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* SQLite version 3.22.0
